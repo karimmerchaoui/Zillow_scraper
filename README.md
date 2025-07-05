@@ -42,14 +42,14 @@
 - **Selective Data Extraction**: Choose which data fields to extract via checkboxes
 
 ## Data Fields Available
-- ✅ **Lead Address**: Original input address
-- ✅ **Property Status**: Current listing status (For Sale, Sold, etc.)
-- ✅ **Zillow Link**: Direct link to the property listing
-- ✅ **Zestimate**: Zillow's estimated property value
-- ✅ **Seller Information**: Listed by details
-- ✅ **Price History**: Complete pricing timeline
-- ✅ **Auction Links**: Links to auction platforms if available
-- ✅ **House Features**: Detailed property specifications
+-  **Lead Address**: Original input address
+-  **Property Status**: Current listing status (For Sale, Sold, etc.)
+-  **Zillow Link**: Direct link to the property listing
+-  **Zestimate**: Zillow's estimated property value
+-  **Seller Information**: Listed by details
+-  **Price History**: Complete pricing timeline
+-  **Auction Links**: Links to auction platforms if available
+-  **House Features**: Detailed property specifications
 
 ## User Interface Features
 - **Dark Mode Interface**: Modern, easy-on-the-eyes design
