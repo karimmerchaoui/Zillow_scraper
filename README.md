@@ -5,6 +5,7 @@
 </div>
 
 
+
 # Overview
 
 **The Problem**: Manually researching dozens or hundreds of properties on Zillow is time-consuming and inefficient. What takes hours of copying and pasting data can now be done in minutes.
@@ -14,7 +15,7 @@
 
 <div align='center'>
 
-<img src="https://github.com/user-attachments/assets/15786584-9b16-4c90-ab13-04536f6c32de" width="50%" alt="Overview Image">
+<img src="https://github.com/user-attachments/assets/e351124e-4207-417d-b90a-e73ae8b48171" width="50%" alt="Overview Image">
 
 
 
